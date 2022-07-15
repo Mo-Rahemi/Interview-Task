@@ -8,6 +8,6 @@ so if user search for book metadata with an id application search in layers if d
 This is good example to show how to use code pattern and how to think for extendable solutions.
 
 Technologies :
-.net core 3.1 + asp.net core + Redis
+.net core 3.1 + asp.net core + Redis + clean architecture  
 
 regards.
