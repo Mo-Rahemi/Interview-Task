@@ -1,0 +1,253 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Billy\\Source\\Repos\\Mo-Rahemi\\Taaghche-Task\\Taaghche.Services\\Taaghche.Services.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Billy\\Source\\Repos\\Mo-Rahemi\\Taaghche-Task\\Taaghche.Application\\Taaghche.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Billy\\Source\\Repos\\Mo-Rahemi\\Taaghche-Task\\Taaghche.Application\\Taaghche.Application.csproj",
+        "projectName": "Taaghche.Application",
+        "projectPath": "C:\\Users\\Billy\\Source\\Repos\\Mo-Rahemi\\Taaghche-Task\\Taaghche.Application\\Taaghche.Application.csproj",
+        "packagesPath": "C:\\Users\\Billy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Billy\\Source\\Repos\\Mo-Rahemi\\Taaghche-Task\\Taaghche.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Billy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Billy\\Source\\Repos\\Mo-Rahemi\\Taaghche-Task\\Taaghche.Core\\Taaghche.Core.csproj": {
+                "projectPath": "C:\\Users\\Billy\\Source\\Repos\\Mo-Rahemi\\Taaghche-Task\\Taaghche.Core\\Taaghche.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Billy\\Source\\Repos\\Mo-Rahemi\\Taaghche-Task\\Taaghche.Core\\Taaghche.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Billy\\Source\\Repos\\Mo-Rahemi\\Taaghche-Task\\Taaghche.Core\\Taaghche.Core.csproj",
+        "projectName": "Taaghche.Core",
+        "projectPath": "C:\\Users\\Billy\\Source\\Repos\\Mo-Rahemi\\Taaghche-Task\\Taaghche.Core\\Taaghche.Core.csproj",
+        "packagesPath": "C:\\Users\\Billy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Billy\\Source\\Repos\\Mo-Rahemi\\Taaghche-Task\\Taaghche.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Billy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Billy\\Source\\Repos\\Mo-Rahemi\\Taaghche-Task\\Taaghche.Infrastructure\\Taaghche.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Billy\\Source\\Repos\\Mo-Rahemi\\Taaghche-Task\\Taaghche.Infrastructure\\Taaghche.Infrastructure.csproj",
+        "projectName": "Taaghche.Infrastructure",
+        "projectPath": "C:\\Users\\Billy\\Source\\Repos\\Mo-Rahemi\\Taaghche-Task\\Taaghche.Infrastructure\\Taaghche.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Billy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Billy\\Source\\Repos\\Mo-Rahemi\\Taaghche-Task\\Taaghche.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Billy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Billy\\Source\\Repos\\Mo-Rahemi\\Taaghche-Task\\Taaghche.Application\\Taaghche.Application.csproj": {
+                "projectPath": "C:\\Users\\Billy\\Source\\Repos\\Mo-Rahemi\\Taaghche-Task\\Taaghche.Application\\Taaghche.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            },
+            "LiteDB": {
+              "target": "Package",
+              "version": "[5.0.12, )"
+            },
+            "StackExchange.Redis": {
+              "target": "Package",
+              "version": "[2.6.48, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Billy\\Source\\Repos\\Mo-Rahemi\\Taaghche-Task\\Taaghche.Services\\Taaghche.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Billy\\Source\\Repos\\Mo-Rahemi\\Taaghche-Task\\Taaghche.Services\\Taaghche.Services.csproj",
+        "projectName": "Taaghche.Services",
+        "projectPath": "C:\\Users\\Billy\\Source\\Repos\\Mo-Rahemi\\Taaghche-Task\\Taaghche.Services\\Taaghche.Services.csproj",
+        "packagesPath": "C:\\Users\\Billy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Billy\\Source\\Repos\\Mo-Rahemi\\Taaghche-Task\\Taaghche.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Billy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Billy\\Source\\Repos\\Mo-Rahemi\\Taaghche-Task\\Taaghche.Application\\Taaghche.Application.csproj": {
+                "projectPath": "C:\\Users\\Billy\\Source\\Repos\\Mo-Rahemi\\Taaghche-Task\\Taaghche.Application\\Taaghche.Application.csproj"
+              },
+              "C:\\Users\\Billy\\Source\\Repos\\Mo-Rahemi\\Taaghche-Task\\Taaghche.Infrastructure\\Taaghche.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Billy\\Source\\Repos\\Mo-Rahemi\\Taaghche-Task\\Taaghche.Infrastructure\\Taaghche.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

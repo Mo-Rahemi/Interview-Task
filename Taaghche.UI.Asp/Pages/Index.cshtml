@@ -1,0 +1,31 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "محمد راحمی";
+}
+
+<div class="text-center">
+
+    <form class="d-inline-block" asp-page-handler="BookId" method="post" enctype="multipart/form-data">
+        <input type="text" name="id" placeholder="آی دی کتاب">
+        <button type="submit" class="btn btn-primary mb-2">جستجو</button>
+    </form>
+
+    @if (ViewData["Error"] != null)
+    {
+        <div class="align-content-center row">
+            <p>@ViewData["Error"] </p>
+        </div>
+    }
+    else if (ViewData["book"] != null)
+    {
+        var metadata = (Core.BookMetadata)ViewData["book"];
+        <div class="align-content-center row">
+            <img src="@metadata.Book.CoverUri" class="align-self-center align-content-center" style="height:400px;width:200px;" />
+        </div>
+        <div class="align-content-center row">
+            <p>'@Html.Raw(@metadata.Book.HtmlDescription)';</p>
+        </div>
+    }
+
+</div>

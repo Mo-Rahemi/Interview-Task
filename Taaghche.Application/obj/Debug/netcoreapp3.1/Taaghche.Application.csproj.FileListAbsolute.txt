@@ -1,0 +1,13 @@
+C:\Users\Billy\source\repos\Taaghche\Taaghche.Application\bin\Debug\netcoreapp3.1\Taaghche.Application.deps.json
+C:\Users\Billy\source\repos\Taaghche\Taaghche.Application\bin\Debug\netcoreapp3.1\Taaghche.Application.dll
+C:\Users\Billy\source\repos\Taaghche\Taaghche.Application\bin\Debug\netcoreapp3.1\Taaghche.Application.pdb
+C:\Users\Billy\source\repos\Taaghche\Taaghche.Application\bin\Debug\netcoreapp3.1\Taaghche.Core.dll
+C:\Users\Billy\source\repos\Taaghche\Taaghche.Application\bin\Debug\netcoreapp3.1\Taaghche.Core.pdb
+C:\Users\Billy\source\repos\Taaghche\Taaghche.Application\obj\Debug\netcoreapp3.1\Taaghche.Application.csproj.AssemblyReference.cache
+C:\Users\Billy\source\repos\Taaghche\Taaghche.Application\obj\Debug\netcoreapp3.1\Taaghche.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Billy\source\repos\Taaghche\Taaghche.Application\obj\Debug\netcoreapp3.1\Taaghche.Application.AssemblyInfoInputs.cache
+C:\Users\Billy\source\repos\Taaghche\Taaghche.Application\obj\Debug\netcoreapp3.1\Taaghche.Application.AssemblyInfo.cs
+C:\Users\Billy\source\repos\Taaghche\Taaghche.Application\obj\Debug\netcoreapp3.1\Taaghche.Application.csproj.CoreCompileInputs.cache
+C:\Users\Billy\source\repos\Taaghche\Taaghche.Application\obj\Debug\netcoreapp3.1\Taaghche.Application.csproj.CopyComplete
+C:\Users\Billy\source\repos\Taaghche\Taaghche.Application\obj\Debug\netcoreapp3.1\Taaghche.Application.dll
+C:\Users\Billy\source\repos\Taaghche\Taaghche.Application\obj\Debug\netcoreapp3.1\Taaghche.Application.pdb
