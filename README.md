@@ -1,5 +1,5 @@
-# Taaghche-Task
-This is an Interview Task for Taaghche company witch is a book startup (https://taaghche.com/).
+# Interview-Task
+This is an Interview Task for A company witch is a book startup.
 
 Problem :
 impelement one of book APIs that cache requests with multiple cache layers. (like memory - redis - other db - etc)
